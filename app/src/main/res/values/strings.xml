@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Daily Golf Quotes</string>
+
+    <!-- Day 1 -->
+    <string name="day_one_name">Day One</string>
+    <string name="day_one_quote">"Golf is a puzzle without an answer. I've played the game for 50 years and still haven't the slightest idea of how to play."</string>
+    <string name="day_one_author">- Gary Player</string>
+
+    <!-- Day 2 -->
+    <string name="day_two_name">Day Two</string>
+    <string name="day_two_quote">"I know I am getting better at golf because I am hitting fewer spectators."</string>
+    <string name="day_two_author">- Gerald Ford</string>
+
+    <!-- Day 3 -->
+    <string name="day_three_name">Day Three</string>
+    <string name="day_three_quote">"Golf is a good walk spoiled."</string>
+    <string name="day_three_author">- Mark Twain</string>
+
+    <!-- Day 4 -->
+    <string name="day_four_name">Day Four</string>
+    <string name="day_four_quote">"Golf is a game invented by the same people who think music comes out of bagpipes."</string>
+    <string name="day_four_author">- Lee Trevino</string>
+
+    <!-- Day 5 -->
+    <string name="day_five_name">Day Five</string>
+    <string name="day_five_quote">"Success in golf depends less on strength of body than upon strength of mind and character."</string>
+    <string name="day_five_author">- Arnold Palmer</string>
+
+    <!-- Day 6 -->
+    <string name="day_six_name">Day Six</string>
+    <string name="day_six_quote">"They call it golf because all the other four-letter words were taken."</string>
+    <string name="day_six_author">- Raymond Floyd</string>
+
+    <!-- Day 7 -->
+    <string name="day_seven_name">Day Seven</string>
+    <string name="day_seven_quote">"Golf is a game of respect and sportsmanship; we have to respect its traditions and its rules."</string>
+    <string name="day_seven_author">- Jack Nicklaus</string>
+
+    <!-- Day 8 -->
+    <string name="day_eight_name">Day Eight</string>
+    <string name="day_eight_quote">"Golf is the closest game to the game we call life. You get bad breaks from good shots; you get good breaks from bad shots—but you have to play the ball where it lies."</string>
+    <string name="day_eight_author">- Bobby Jones</string>
+
+    <!-- Day 9 -->
+    <string name="day_nine_name">Day Nine</string>
+    <string name="day_nine_quote">"The reason the pro tells you to keep your head down is so you can't see him laughing."</string>
+    <string name="day_nine_author">- Phyllis Diller</string>
+
+    <!-- Day 10 -->
+    <string name="day_ten_name">Day Ten</string>
+    <string name="day_ten_quote">"You can talk strategy all you want, but at the end of the day, execution is what wins the game."</string>
+    <string name="day_ten_author">- Tiger Woods</string>
+
+    <!-- Day 11 -->
+    <string name="day_eleven_name">Day Eleven</string>
+    <string name="day_eleven_quote">"A bad attitude is worse than a bad swing."</string>
+    <string name="day_eleven_author">- Payne Stewart</string>
+
+    <!-- Day 12 -->
+    <string name="day_twelve_name">Day Twelve</string>
+    <string name="day_twelve_quote">"Golf is like a love affair: If you don’t take it seriously, it’s no fun. If you do take it seriously, it breaks your heart."</string>
+    <string name="day_twelve_author">Arnold Daly</string>
+
+    <!-- Day 13 -->
+    <string name="day_thirteen_name">Day Thirteen</string>
+    <string name="day_thirteen_quote">"Some people think they are concentrating when they’re merely worrying."</string>
+    <string name="day_thirteen_author">- Bobby Jones</string>
+
+    <!-- Day 14 -->
+    <string name="day_fourteen_name">Day Fourteen</string>
+    <string name="day_fourteen_quote">"The most important shot in golf is the next one."</string>
+    <string name="day_fourteen_author">- Ben Hogan</string>
+
+    <!-- Day 15 -->
+    <string name="day_fifteen_name">Day Fifteen</string>
+    <string name="day_fifteen_quote">"If you think it’s hard to meet new people, try picking up the wrong golf ball."</string>
+    <string name="day_fifteen_author">- Jack Lemmon</string>
+
+    <!-- Day 16 -->
+    <string name="day_sixteen_name">Day Sixteen</string>
+    <string name="day_sixteen_quote">"Golf is about how well you accept, respond to, and score with your misses much more than it is a game of your perfect shots."</string>
+    <string name="day_sixteen_author">- Dr. Bob Rotella</string>
+
+    <!-- Day 17 -->
+    <string name="day_seventeen_name">Day Seventeen</string>
+    <string name="day_seventeen_quote">"No matter how good you get, you can always get better—that’s the beauty of the game."</string>
+    <string name="day_seventeen_author">- Tiger Woods</string>
+
+    <!-- Day 18 -->
+    <string name="day_eighteen_name">Day Eighteen</string>
+    <string name="day_eighteen_quote">"Golf teaches you honesty, patience, and humility—because the game will humble you."</string>
+    <string name="day_eighteen_author">- Unknown</string>
+
+    <!-- Day 19 -->
+    <string name="day_nineteen_name">Day Nineteen</string>
+    <string name="day_nineteen_quote">"My swing is like an octopus falling out of a tree."</string>
+    <string name="day_nineteen_author">- Charles Barkley</string>
+
+    <!-- Day 20 -->
+    <string name="day_twenty_name">Day Twenty</string>
+    <string name="day_twenty_quote">"Golf is the only game where you can’t play defense, which is why it’s so hard."</string>
+    <string name="day_twenty_author">- Phil Mickelson</string>
+
+    <!-- Day 21 -->
+    <string name="day_twenty_one_name">Day Twenty One</string>
+    <string name="day_twenty_one_quote">"Every shot counts. The only thing you can control is your preparation and your mindset."</string>
+    <string name="day_twenty_one_author">- Tiger Woods</string>
+
+    <!-- Day 22 -->
+    <string name="day_twenty_two_name">Day Twenty Two</string>
+    <string name="day_twenty_two_quote">"It's not the will to win that matters—everyone has that. It's the will to prepare to win that matters."</string>
+    <string name="day_twenty_two_author">- Paul Bryant</string>
+
+    <!-- Day 23 -->
+    <string name="day_twenty_three_name">Day Twenty Three</string>
+    <string name="day_twenty_three_quote">"The best wood in my bag is a pencil."</string>
+    <string name="day_twenty_three_author">-Chi Chi Rodriguez</string>
+
+    <!-- Day 24 -->
+    <string name="day_twenty_four_name">Day Twenty Four</string>
+    <string name="day_twenty_four_quote">"A bad day at golf is still better than a good day at work."</string>
+    <string name="day_twenty_four_author">- Unknown</string>
+
+    <!-- Day 25 -->
+    <string name="day_twenty_five_name">Day Twenty Five</string>
+    <string name="day_twenty_five_quote">"Golf is a game of inches—the most important are the six inches between your ears."</string>
+    <string name="day_twenty_five_author">- Arnold Palmer</string>
+
+    <!-- Day 26 -->
+    <string name="day_twenty_six_name">Day Twenty Six</string>
+    <string name="day_twenty_six_quote">"Golf: A game where you yell 'fore,' shoot six, and write down five."</string>
+    <string name="day_twenty_six_author">- Paul Harvey</string>
+
+    <!-- Day 27 -->
+    <string name="day_twenty_seven_name">Day Twenty Seven</string>
+    <string name="day_twenty_seven_quote">"Golf teaches you patience. If you're not patient, you’ll learn the hard way."</string>
+    <string name="day_twenty_seven_author">- Unknown</string>
+
+    <!-- Day 28 -->
+    <string name="day_twenty_eight_name">Day Twenty Eight</string>
+    <string name="day_twenty_eight_quote">"A good golfer has the determination to win and the patience to wait for the breaks."</string>
+    <string name="day_twenty_eight_author">- Gary Player</string>
+
+    <!-- Day 29 -->
+    <string name="day_twenty_nine_name">Day Twenty Nine</string>
+    <string name="day_twenty_nine_quote">"I have a tip that can take five strokes off anyone’s game: It’s called an eraser."</string>
+    <string name="day_twenty_nine_author">- Arnold Palmer</string>
+
+    <!-- Day 30 -->
+    <string name="day_thirty_name">Day Thirty</string>
+    <string name="day_thirty_quote">"The beauty of golf is that no two rounds are ever the same, just like no two days in life are ever identical."</string>
+    <string name="day_thirty_author">- Unknown</string>
+
+    <string name="expand_to_see_your_daily_quote">Expand to see your daily quote.</string>
+</resources>
